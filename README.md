@@ -1,4 +1,4 @@
-# PYTHON-BASED-FACIAL-DE-IDENTIFICATION-FOR-HUMAN-SECURITY
+# Python based facial de-identification for human security
 
 This study explores the impact of **facial de-identification** on human pose estimation, a key task in computer vision. Facial de-identification involves two steps: detecting and tracking faces in images, followed by using techniques like **Gaussian blur** to obscure facial details for privacy protection. This process ensures that faces are not recognizable while preserving the rest of the image for analysis.
 
